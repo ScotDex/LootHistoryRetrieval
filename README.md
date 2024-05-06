@@ -13,5 +13,5 @@ Download script - right click run powershell as admin - the spreadsheet will dro
 
 ## Contact
 
-Any questions head here - https://discord.gg/GERab2tvsq
-Eve Charachter - [https://zkillboard.com/character/95282689/](https://zkillboard.com/character/95282689/)
+- Any questions head here - https://discord.gg/GERab2tvsq
+- Eve Charachter - [https://zkillboard.com/character/95282689/](https://zkillboard.com/character/95282689/)
