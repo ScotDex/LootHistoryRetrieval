@@ -1,6 +1,6 @@
 # Exported Loot Sheet Conversion
 
-Brief description of what the project does.
+Little something I came up with, powershell script to run on your local desktop – will quietly retrieve your latest exported loot sheet and present it on your desktop as a spreadsheet
 
 ## Table of Contents
 
