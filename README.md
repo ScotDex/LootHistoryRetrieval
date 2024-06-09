@@ -2,6 +2,8 @@
 
 Little something I came up with, powershell script to run on your local desktop – will quietly retrieve your latest exported loot sheet and present it on your desktop as a spreadsheet
 
+Additionally a free network diagnotics tool provided by CCP.
+
 ## Table of Contents
 
 - [Installation](#installation)
